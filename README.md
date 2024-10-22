@@ -1,16 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 🌟 Hey there, I’m Thomas Bücker – Your Data Whisperer 📊✨
 
-###
+I turn **data puzzles** into **clarity** and **action**. As a **Data Analyst** with a love for **logistics** and **automation**, I’m always on the hunt for patterns that lead to smarter decisions. Whether I’m crafting a **web scraper** to collect real-time insights or building sleek, interactive **dashboards**, I’m all about turning numbers into narratives.
 
-<p align="left">My name is Thomas and I'm a Data Analyst Student from Germany</p>
+## 🚀 Tools of My Trade:
+- **Python** 🐍 (Pandas, NumPy, BeautifulSoup, Dash – my superpowers!)
+- **SQL** 📊 (because good data needs a solid home)
+- **Data Viz** 🎨 (Power BI, Matplotlib – bringing data to life)
+- **Automation** ⚙️ (Let the bots do the boring stuff!)
 
-###
+## 💡 Current Mission:
+- Fine-tuning pricing models to give businesses a competitive edge.
+- Building a logistics dashboard that takes the chaos out of supply chains.
 
-<h2 align="left">About me</h2>
+## 🌱 What Gets Me Up in the Morning:
+Solving complex data mysteries, automating the tedious, and always leveling up. I see data like a story waiting to be told, and I love crafting the perfect narrative.
 
-###
-
-<p align="left">✨ Creating MLO for GTA V, learning coding<br>📚 I'm currently learning Python, SQL and PowerBI<br>🎯 Goals: Fun at Work<br>🎲 Fun fact: ...</p>
 
 ###
 
